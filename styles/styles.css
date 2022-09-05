@@ -1,0 +1,97 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-image: url(../img/background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+
+.logo{
+    width: 75px;
+    height: 75px;
+}
+
+.icon{
+    padding: 15px;
+    border-radius: 15%;
+}
+
+a{
+    text-align: center;
+}
+
+.div_perfil{
+    text-align: center;
+}
+
+.perfil{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+
+.title{
+    font-size: 50px;
+    font-weight: 900;
+    background-color: white;
+    display: inline;
+    border-radius: 1%;
+    border: 2px solid black;
+    box-shadow: -10px -10px 0 white;
+    padding: 5px;
+}
+
+.subtitle{
+    font-size: 40px;
+    font-weight: 900;
+    background-color: white;
+    display: inline;
+    border-radius: 1%;
+    border: 2px solid black;
+    box-shadow: -5px -5px 0 white;
+    padding: 5px;
+}
+
+.margin{
+    margin-top: 30px;
+}
+
+.home{
+    height: 110vh;
+    background-image: url(../img/wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+
+.about{
+    font-size: 20px;
+    font-weight: 900;
+    color: white;
+}
+
+.about-text{
+    font-size: 18px;
+    font-weight: 900;
+    color: white;
+    
+}
+
+
+.card-title{
+    font-size: 18px;
+    font-weight: 900;
+
+}
+
+.icono{
+    height: 10vh;
+}
